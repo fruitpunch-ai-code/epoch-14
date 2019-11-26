@@ -1,4 +1,4 @@
-# Fruitpunch AI code epoch-10: Convolutional Autoencoder
+# Fruitpunch AI code epoch-14: Amazon Reviews Classificatoin using NLP
 AI Code is an initiative by fruitpunch where students can learn to apply AI together by solving a challenge under supervision of an expert. This repository contains the challenge files for epoch 14.
 
 # Challenge description
